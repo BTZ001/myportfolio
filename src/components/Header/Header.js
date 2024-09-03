@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faLinkedin,
   faGithub,
-  faYoutube,
+
 } from '@fortawesome/free-brands-svg-icons';
 
 import '../../styles/Header/Header.scss';
@@ -131,7 +131,7 @@ const Header = () => {
                 </p>
 
                 <p className='header__youtube'>
-                  <a href="https://www.youtube.com/channel/UCkNUMuNBp1-037oHEKs-G9Q" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faYoutube} size="2x" /></a>
+                  <a href="https://www.youtube.com/channel/UCkNUMuNBp1-037oHEKs-G9Q" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon size="2x" /></a>
                 </p>
               </div>
             </ul>
