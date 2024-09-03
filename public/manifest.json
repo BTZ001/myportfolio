@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://theinzawmyint.netlify.app/homepage",
+  "start_url": "https://theinzawmyint.netlify.app/homepage/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
