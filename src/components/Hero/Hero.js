@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 import '../../styles/Hero/Hero.scss';
 
-import Myself from '../../assets/images/tz-removebg-preview.png';
+import Myself from '../../assets/images/Thein Zaw Myint.png';
 
 const Hero = () => {
   useEffect(() => {
