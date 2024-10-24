@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/BTZ001/myportfolio.git/static/css/main.c40570f7.css",
-    "main.js": "/BTZ001/myportfolio.git/static/js/main.cf4562f0.js",
-    "static/js/453.1407b060.chunk.js": "/BTZ001/myportfolio.git/static/js/453.1407b060.chunk.js",
-    "static/media/evfb.pdf": "/BTZ001/myportfolio.git/static/media/evfb.cd4e67adbf70c4b28f9b.pdf",
-    "static/media/Thein Zaw Myint.png": "/BTZ001/myportfolio.git/static/media/Thein Zaw Myint.e8814a2a31d7108e28c9.png",
-    "static/media/Redwing-Medium.otf": "/BTZ001/myportfolio.git/static/media/Redwing-Medium.7402d4c764b8807db59b.otf",
-    "static/media/Redwing-Light.otf": "/BTZ001/myportfolio.git/static/media/Redwing-Light.bda278368d19c572f2f2.otf",
-    "index.html": "/BTZ001/myportfolio.git/index.html",
-    "static/media/angle-down.svg": "/BTZ001/myportfolio.git/static/media/angle-down.11e201872eb97a54f0d3.svg",
-    "static/media/triangle.svg": "/BTZ001/myportfolio.git/static/media/triangle.5172a3481a7112a7a103.svg",
-    "main.c40570f7.css.map": "/BTZ001/myportfolio.git/static/css/main.c40570f7.css.map",
-    "main.cf4562f0.js.map": "/BTZ001/myportfolio.git/static/js/main.cf4562f0.js.map",
-    "453.1407b060.chunk.js.map": "/BTZ001/myportfolio.git/static/js/453.1407b060.chunk.js.map"
+    "main.css": "./static/css/main.e86c345d.css",
+    "main.js": "./static/js/main.f60a0871.js",
+    "static/js/453.1407b060.chunk.js": "./static/js/453.1407b060.chunk.js",
+    "static/media/evfb.pdf": "./static/media/evfb.cd4e67adbf70c4b28f9b.pdf",
+    "static/media/Thein Zaw Myint.png": "./static/media/Thein Zaw Myint.e8814a2a31d7108e28c9.png",
+    "static/media/Redwing-Medium.otf": "./static/media/Redwing-Medium.7402d4c764b8807db59b.otf",
+    "static/media/Redwing-Light.otf": "./static/media/Redwing-Light.bda278368d19c572f2f2.otf",
+    "index.html": "./index.html",
+    "static/media/angle-down.svg": "./static/media/angle-down.11e201872eb97a54f0d3.svg",
+    "static/media/triangle.svg": "./static/media/triangle.5172a3481a7112a7a103.svg",
+    "main.e86c345d.css.map": "./static/css/main.e86c345d.css.map",
+    "main.f60a0871.js.map": "./static/js/main.f60a0871.js.map",
+    "453.1407b060.chunk.js.map": "./static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c40570f7.css",
-    "static/js/main.cf4562f0.js"
+    "static/css/main.e86c345d.css",
+    "static/js/main.f60a0871.js"
   ]
 }
