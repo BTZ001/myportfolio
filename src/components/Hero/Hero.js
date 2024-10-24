@@ -95,7 +95,7 @@ const Hero = () => {
             <div
               className="hero__description"
               data-aos="fade"
-              data-aos-delay="1800"
+              data-aos-delay="1700"
             >
               <p>
                 I'm a passionate and responsible{' '}
